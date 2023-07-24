@@ -1,2 +1,2 @@
 # cursoGamaAcademyAmbev
-Curso com parceira com a Ambev
+Curso em parceira com a Ambev
